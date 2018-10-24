@@ -1,2 +1,2 @@
 # rockode
-Rock code
+Rock code hosts algorithm in python.
