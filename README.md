@@ -1,2 +1,288 @@
 # rockode
 Rock code hosts algorithm in python.
+
+Currently, it covers the following quiz from Program Creek:
+
+## Contents
+- 1 Two Sum
+- 2 Two Sum II Input array is sorted
+- 3 Two Sum III Data structure design
+- 4 3Sum
+- 5 4Sum
+- 6 3Sum Closest
+- 7 Minimum Size Subarray Sum
+- 8 Remove Duplicates from Sorted Array
+- 9 Remove Duplicates from Sorted Array II
+- 10 Remove Element
+- 11 Move Zeroes
+- 12 Container With Most Water
+- 13 Candy
+- 14 Trapping Rain Water
+- 15 Summary Ranges
+- 16 One Edit Distance
+- 17 Merge Sorted Array
+- 18 Shortest Word Distance
+- 19 Shortest Word Distance II
+- 20 Shortest Word Distance III
+- 2 |
+- 21 Intersection of Two Arrays Contents
+- 22 Intersection of Two Arrays II
+- 23 Median of Two Sorted Arrays
+- 24 Search Insert Position
+- 25 Find Minimum in Rotated Sorted Array
+- 26 Find Minimum in Rotated Sorted Array II
+- 27 Search for a Range
+- 28 Guess Number Higher or Lower
+- 29 First Bad Version
+- 30 Search in Rotated Sorted Array
+- 31 Search in Rotated Sorted Array II
+- 32 Evaluate Reverse Polish Notation
+- 33 Valid Parentheses
+- 34 Longest Valid Parentheses
+- 35 Valid Palindrome
+- 36 Min Stack
+- 37 Largest Rectangle in Histogram
+- 38 Maximal Rectangle
+- 39 Valid Anagram
+- 40 Group Shifted Strings
+- 41 Palindrome Pairs
+- 42 Insert Delete GetRandom O(1)
+- 43 Longest Substring Without Repeating Characters
+- 44 Longest Substring with At Most K Distinct Characters
+- 45 Substring with Concatenation of All Words
+- Program Creek 3 |
+- 46 Minimum Window Substring Contents
+- 47 Isomorphic Strings
+- 48 Longest Consecutive Sequence
+- 49 Majority Element
+- 50 Majority Element II
+- 51 Increasing Triplet Subsequence
+- 52 Rotate Array in Java
+- 53 Reverse Words in a String II
+- 54 Group Anagrams
+- 55 Wildcard Matching
+- 56 Regular Expression Matching in Java
+- 57 Get Target Number Using Number List and Arithmetic Operations
+- 58 Flip Game
+- 59 Flip Game II
+- 60 Word Pattern
+- 61 Word Pattern II
+- 62 Scramble String
+- 63 Remove Invalid Parentheses
+- 64 Shortest Palindrome
+- 65 Word Ladder
+- 66 Word Ladder II
+- 67 Kth Largest Element in an Array
+- 68 Top K Frequent Elements
+- 69 Meeting Rooms II
+- 70 Meeting Rooms
+- 71 Range Addition Contents
+- 72 Merge K Sorted Arrays in Java
+- 73 Merge k Sorted Lists
+- 74 Contains Duplicate
+- 75 Contains Duplicate II
+- 76 Contains Duplicate III
+- 77 Missing Number
+- 78 Find the Duplicate Number
+- 79 First Missing Positive
+- 80 HIndex
+- 81 HIndex II
+- 82 Sliding Window Maximum
+- 83 Moving Average from Data Stream
+- 84 Find Median from Data Stream
+- 85 Data Stream as Disjoint Intervals
+- 86 Largest Number
+- 87 Sort List
+- 88 Quicksort Array in Java
+- 89 Solution Sort a linked list using insertion sort in Java
+- 90 Maximum Gap
+- 91 Sort Colors
+- 92 Merge Intervals
+- 93 Insert Interval
+- 94 Implement a Stack Using an Array in Java
+- 95 Implement Stack using Queues
+- Program Creek 5 |
+- 96 Implement Queue using Stacks Contents
+- 97 Implement a Queue using an Array in Java
+- 98 Implement Trie (Prefix Tree)
+- 99 Add and Search Word Data structure design
+- 100 Range Sum Query Mutable
+- 101 The Skyline Problem
+- 102 Clone Graph
+- 103 Course Schedule
+- 104 Course Schedule II
+- 105 Minimum Height Trees
+- 106 Reconstruct Itinerary
+- 107 Graph Valid Tree
+- 108 Ugly Number
+- 109 Ugly Number II
+- 110 Super Ugly Number
+- 111 Find K Pairs with Smallest Sums
+- 112 Edit Distance in Java
+- 113 Distinct Subsequences Total
+- 114 Longest Palindromic Substring
+- 115 Word Break
+- 116 Word Break II
+- 117 Maximum Subarray
+- 118 Maximum Product Subarray
+- 119 Palindrome Partitioning
+- 120 Palindrome Partitioning II
+- 121 House Robber Contents
+- 122 House Robber II
+- 123 House Robber III
+- 124 Jump Game
+- 125 Jump Game II
+- 126 Best Time to Buy and Sell Stock
+- 127 Best Time to Buy and Sell Stock II
+- 128 Best Time to Buy and Sell Stock III
+- 129 Best Time to Buy and Sell Stock IV
+- 130 Dungeon Game
+- 131 Minimum Path Sum
+- 132 Unique Paths
+- 133 Decode Ways
+- 134 Longest Common Subsequence
+- 135 Longest Common Substring
+- 136 Longest Increasing Subsequence
+- 137 Coin Change
+- 138 Perfect Squares
+- 139 Permutations
+- 140 Permutations II
+- 141 Permutation Sequence
+- 142 Generate Parentheses
+- 143 Combination Sum
+- 144 Combination Sum II
+- 145 Combination Sum III
+- Program Creek 7 |
+- 146 Combination Sum IV Contents
+- 147 Combinations
+- 148 Letter Combinations of a Phone Number
+- 149 Restore IP Addresses
+- 150 Factor Combinations
+- 151 Subsets
+- 152 Subsets II
+- 153 Triangle
+- 154 String to Integer (atoi)
+- 155 Implement strStr()
+- 156 ZigZag Conversion
+- 157 Add Binary
+- 158 Length of Last Word
+- 159 Bulls and Cows
+- 160 Longest Common Prefix
+- 161 Simplify Path
+- 162 Compare Version Numbers
+- 163 Pascal’s Triangle
+- 164 Pascal’s Triangle II
+- 165 Count and Say
+- 166 Basic Calculator
+- 167 Basic Calculator II
+- 168 Rectangle Area
+- 169 Reverse Vowels of a String
+- 170 Find Peak Element
+- 171 Integer to English Words Contents
+- 172 Text Justification
+- 173 Gas Station
+- 174 Self Crossing
+- 175 Patching Array
+- 176 Nim Game
+- 177 Bulb Switcher
+- 178 Pain Fence
+- 179 Nested List Weight Sum
+- 180 Search a 2D Matrix
+- 181 Search a 2D Matrix II
+- 182 Set Matrix Zeroes
+- 183 Spiral Matrix
+- 184 Spiral Matrix II
+- 185 Rotate Image
+- 186 Valid Sudoku
+- 187 Unique Paths II
+- 188 Number of Islands
+- 189 Number of Islands II
+- 190 Number of Connected Components in an Undirected Graph
+- 191 Surrounded Regions
+- 192 Maximal Square
+- 193 Word Search
+- 194 Word Search II
+- 195 Range Sum Query 2D Immutable
+- Program Creek 9 |
+- 196 Longest Increasing Path in a Matrix Contents
+- 197 Shortest Distance from All Buildings
+- 198 Game of Life
+- 199 Paint House
+- 200 Paint House II
+- 201 Sudoku Solver
+- 202 Walls and Gates
+- 203 TicTacToe
+- 204 Best Meeting Point
+- 205 Add Two Numbers
+- 206 Reorder List
+- 207 Linked List Cycle
+- 208 Copy List with Random Pointer
+- 209 Merge Two Sorted Lists
+- 210 Odd Even Linked List
+- 211 Remove Duplicates from Sorted List
+- 212 Remove Duplicates from Sorted List II
+- 213 Partition List
+- 214 LRU Cache
+- 215 Intersection of Two Linked Lists
+- 216 Remove Linked List Elements
+- 217 Swap Nodes in Pairs
+- 218 Reverse Linked List
+- 219 Reverse Linked List II
+- 220 Remove Nth Node From End of List
+- 221 Palindrome Linked List Contents
+- 222 Delete Node in a Linked List
+- 223 Reverse Nodes in kGroup
+- 224 Binary Tree Preorder Traversal
+- 225 Binary Tree Inorder Traversal
+- 226 Binary Tree Postorder Traversal
+- 227 Binary Tree Level Order Traversal
+- 228 Binary Tree Level Order Traversal II
+- 229 Binary Tree Vertical Order Traversal
+- 230 Invert Binary Tree
+- 231 Kth Smallest Element in a BST
+- 232 Binary Tree Longest Consecutive Sequence
+- 233 Validate Binary Search Tree
+- 234 Flatten Binary Tree to Linked List
+- 235 Path Sum
+- 236 Path Sum II
+- 237 Construct Binary Tree from Inorder and Postorder Traversal
+- 238 Construct Binary Tree from Preorder and Inorder Traversal
+- 239 Convert Sorted Array to Binary Search Tree
+- 240 Convert Sorted List to Binary Search Tree
+- 241 Minimum Depth of Binary Tree
+- 242 Binary Tree Maximum Path Sum
+- 243 Balanced Binary Tree
+- 244 Symmetric Tree
+- 245 Binary Search Tree Iterator
+- Program Creek 11 |
+- 246 Binary Tree Right Side View Contents
+- 247 Lowest Common Ancestor of a Binary Search Tree
+- 248 Lowest Common Ancestor of a Binary Tree
+- 249 Verify Preorder Serialization of a Binary Tree
+- 250 Populating Next Right Pointers in Each Node
+- 251 Populating Next Right Pointers in Each Node II
+- 252 Unique Binary Search Trees
+- 253 Unique Binary Search Trees II
+- 254 Sum Root to Leaf Numbers
+- 255 Count Complete Tree Nodes
+- 256 Closest Binary Search Tree Value
+- 257 Binary Tree Paths
+- 258 Maximum Depth of Binary Tree
+- 259 Recover Binary Search Tree
+- 260 Same Tree
+- 261 Serialize and Deserialize Binary Tree
+- 262 Inorder Successor in BST
+- 263 Find Leaves of Binary Tree
+- 264 Largest BST Subtree
+- 265 Single Number
+- 266 Single Number II
+- 267 Twitter Codility Problem Max Binary Gap
+- 268 Number of 1 Bits
+- 269 Reverse Bits
+- 270 Repeated DNA Sequences
+- 271 Bitwise AND of Numbers Range Contents
+- 272 Sum of Two Integers
+- 273 Counting Bits
+- 274 Maximum Product of Word Lengths
+- 275 Gray Code
+- 276 Pow(x, n)
